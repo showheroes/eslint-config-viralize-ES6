@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-viralize-es6",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Viralize es6 eslint rules",
   "repository": {
     "type": "git",
