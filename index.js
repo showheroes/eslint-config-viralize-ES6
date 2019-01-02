@@ -6,7 +6,7 @@ module.exports = {
     ],
     rules: {
         'arrow-body-style': 'off',
-        'arrow-parens': ['error', 'always'],
+        'arrow-parens': [2, 'as-needed', { 'requireForBlockBody': true }],
         'func-names': ['error', 'as-needed'],
         'import/no-extraneous-dependencies': [
             'error', { devDependencies: true }
