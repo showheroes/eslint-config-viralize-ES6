@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.1
+
+- Change release command to update package-lock.json on release
+
 ## 4.0.0
 
 - updated viralize-common rules version to version 5.0.0
