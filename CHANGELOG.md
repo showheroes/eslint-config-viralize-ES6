@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 6.0.3
+
+- Fix eslint-config-viralize-common version
+
 ## 6.0.2
 
 - Update changelog
