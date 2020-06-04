@@ -1,5 +1,22 @@
 # Changelog
 
+
+## 6.0.3
+
+- Fix eslint-config-viralize-common version
+
+## 6.0.2
+
+- Update changelog
+
+## 6.0.1
+
+- Update all dependency and use explicit version
+
+## 6.0.0
+
+- Update dependencies to fix lodash security issue
+
 ## 5.0.0
 
 - Updated viralize-common rules to version 6.0.0
