@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-viralize-es6",
-  "version": "6.0.3",
+  "version": "6.1.0",
   "description": "Viralize es6 eslint rules",
   "repository": {
     "type": "git",
@@ -23,11 +23,11 @@
     "release:patch": "node ./scripts/patch"
   },
   "peerDependencies": {
-    "eslint": "5.16.0",
-    "eslint-config-airbnb": "17.1.1",
-    "eslint-config-viralize-common": "7.0.3",
-    "eslint-plugin-import": "2.20.2",
-    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint": "5.16.0 || ^6 || ^7",
+    "eslint-config-airbnb": "17.1.1 || ^18",
+    "eslint-config-viralize-common": "^7",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6",
     "eslint-plugin-react": "7.20.0"
   },
   "devDependencies": {
